@@ -420,6 +420,9 @@ body {
 
 
 @media screen and (max-width: 1190px) {
+.payerinfo .block3{
+    width: 100%;
+}
 .wrapper {
     width: 100%;
 }
@@ -439,6 +442,9 @@ body {
 
 
 @media screen and (max-width: 800px) {
+    .payerinfo .block3{
+        width: 100%;
+    }
 .box1 .title1 {
     font-size: 40px;
     padding: 8px 0px 7px;
@@ -467,6 +473,9 @@ body {
 
 }
 @media screen and (max-width: 500px) {
+    .payerinfo .block3{
+        width: 100%;
+    }
 .box3 .list li {
     min-width: 0px;
     width: 89%;
